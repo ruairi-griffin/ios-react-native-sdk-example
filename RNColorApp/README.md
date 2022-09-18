@@ -5,9 +5,11 @@ To run, make sure you have followed the instructions to setup a react native pro
 
 [setup](https://reactnative.dev/docs/environment-setup)
 
-then call 
+then run in RNColorApp directory
 
 ```sh
+yarn install
+cd ios && pod install && cd ..
 yarn react-native run-ios
 ```
 

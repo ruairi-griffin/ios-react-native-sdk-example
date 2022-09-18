@@ -31,6 +31,11 @@ red, green or blue arguments may be omitted and will be replaced with random val
 ## Demo App
 
 ```sh
+yarn install
+cd example/ios
+pod install
+cd ..
+cd ..
 yarn example ios
 ```
 
