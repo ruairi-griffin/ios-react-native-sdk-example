@@ -1,0 +1,6 @@
+framework module RGColorSDK {
+  umbrella header "RGColorSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

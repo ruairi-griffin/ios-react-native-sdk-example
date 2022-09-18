@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'RGColorSDK_Example' do
+  pod 'RGColorSDK', :path => '../'
+
+  target 'RGColorSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - RGColorSDK (0.1.0)
+
+DEPENDENCIES:
+  - RGColorSDK (from `../`)
+
+EXTERNAL SOURCES:
+  RGColorSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RGColorSDK: 1484ef52d6aaed9bcb247bc1c8cd180fcbe92cbe
+
+PODFILE CHECKSUM: 1c9672db3b61c55ebf5396e710a57ef26ddbf8af
+
+COCOAPODS: 1.11.3
